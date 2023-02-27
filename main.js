@@ -1,8 +1,8 @@
 
 const images = {
-    stone: '/img/stone.png',
-    scissors: '/img/scissors.png',
-    paper: '/img/paper.png'
+    stone: 'stone.png',
+    scissors: 'scissors.png',
+    paper: 'paper.png'
   };
   
   function getRobotChoice() {
